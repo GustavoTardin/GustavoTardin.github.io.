@@ -1,2 +1,2 @@
-# GustavoTardin.github.io.
+# GustavoTardin.github.io
 GitHub Page
